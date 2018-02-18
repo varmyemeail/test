@@ -5,7 +5,7 @@
 
 KEY_CODES = {
   32: 'space',
-  65: 'left',
+  68: 'left',
   38: 'up',
   39: 'right',
   40: 'down',
